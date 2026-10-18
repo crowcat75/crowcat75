@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**crowcat75/crowcat75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Crowcat
 
-Here are some ideas to get you started:
+I'm a business operations professional with experience
+in accounting support, customer operations, and
+administrative workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently exploring Corporate IT, IT operations,
+automation, and open-source development.
+
+## Areas of Interest
+
+- Corporate IT and system administration
+- IT operations and workflow automation
+- Open-source software and collaborative development
+- Technical documentation and knowledge sharing
+
+## What I'm Working Toward
+
+I'm learning more about IT systems and looking forward
+to contributing to open-source projects, collaborating
+with developers, and improving practical tools.
+
+## Open Source Contributions
+
+I'm currently exploring projects where I can make
+my first contributions.
+  
